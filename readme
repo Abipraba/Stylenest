@@ -1,0 +1,38 @@
+# 🛍️ StyleNest - Fashion Store Website
+
+**StyleNest** is a modern and responsive fashion store website template built with **HTML** and **CSS**.  
+It showcases collections for **Men, Women, and Kids**, along with an introductory home section, category navigation, and a contact section.
+
+---
+
+## 📌 Features
+
+- **Fixed Header Navigation** with smooth scrolling.
+- **Responsive Layout** that works across desktop, tablet, and mobile.
+- **Hero Section** with tagline and promotional image.
+- **Category Section** linking directly to Men, Women, and Kids collections.
+- **Collection Sections** for Men, Women, and Kids with product images, labels, and prices.
+- **Contact Section** with email, phone, and address details.
+- **Hover Effects** for category images.
+
+---
+
+## 🖼️ Project Structure
+
+StyleNest/
+│
+├── index.html # Main HTML file
+├── README.md # Project documentation (this file)
+└── assets/ # (Optional) Folder for storing images if hosting locally
+
+📱 Responsive Design
+Uses flexbox for layout.
+
+Adapts to screen sizes using media queries.
+
+Navigation and sections adjust for mobile screens.
+
+🎨 Technologies Used
+HTML5
+
+CSS3 (Flexbox, Media Queries, Hover Effects)
